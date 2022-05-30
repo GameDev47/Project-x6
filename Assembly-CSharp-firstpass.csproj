@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C5310441-2C0B-63D2-7F5C-BED50CF17161}</ProjectGuid>
+    <ProjectGuid>{D74EBA4F-62BF-9D2B-BFBD-02DB632A768E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -799,31 +799,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{52803A9B-1061-4BE4-598F-FC901DBB7468}</Project>
+      <Project>{F04E6FC5-04DD-3057-0E58-84D7458EEEC0}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{C410C2BC-4B6F-50CC-8C3F-1CD9D7F1885C}</Project>
+      <Project>{EE5DACBD-8995-278C-F5E4-5594B3BF5607}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{7BBB4ED5-8EE1-91F2-3E51-D84BD7D9CEBE}</Project>
+      <Project>{A8FEF7A6-8FCB-B8AF-BAEF-AE4C50F12F66}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{2BB8131B-794E-6FFB-C7C8-2391C535CA28}</Project>
+      <Project>{2A99496D-EF3F-AC3E-73D6-181B920C810F}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{67BD9E67-4E94-06B7-9D86-FAD0D87BD605}</Project>
+      <Project>{C51362C1-E940-77EE-AC31-467598C7FAA4}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{6E41ADD6-D85F-34B1-48E5-1C881AB97186}</Project>
+      <Project>{8FA6A910-231F-A234-8B5C-7661AE1538A9}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{EE26D81E-AC24-549D-E969-1A7033E9CDAF}</Project>
+      <Project>{A70CC141-7D34-9AC1-9B39-8B8A05156CE1}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
   </ItemGroup>
